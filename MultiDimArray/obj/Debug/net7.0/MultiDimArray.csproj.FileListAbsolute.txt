@@ -1,0 +1,15 @@
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\bin\Debug\net7.0\MultiDimArray.exe
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\bin\Debug\net7.0\MultiDimArray.deps.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\bin\Debug\net7.0\MultiDimArray.runtimeconfig.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\bin\Debug\net7.0\MultiDimArray.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\bin\Debug\net7.0\MultiDimArray.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.csproj.AssemblyReference.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.AssemblyInfoInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.AssemblyInfo.cs
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.csproj.CoreCompileInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\refint\MultiDimArray.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\MultiDimArray.genruntimeconfig.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\MultiDimArray\obj\Debug\net7.0\ref\MultiDimArray.dll

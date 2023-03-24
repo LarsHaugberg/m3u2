@@ -1,0 +1,15 @@
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.exe
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.deps.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.runtimeconfig.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\bin\Debug\net7.0\ExceptionHandling.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.AssemblyInfo.cs
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\refint\ExceptionHandling.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ExceptionHandling.genruntimeconfig.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ExceptionHandling\obj\Debug\net7.0\ref\ExceptionHandling.dll

@@ -1,0 +1,15 @@
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\bin\Debug\net7.0\StringInterlation.exe
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\bin\Debug\net7.0\StringInterlation.deps.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\bin\Debug\net7.0\StringInterlation.runtimeconfig.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\bin\Debug\net7.0\StringInterlation.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\bin\Debug\net7.0\StringInterlation.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.csproj.AssemblyReference.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.AssemblyInfoInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.AssemblyInfo.cs
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.csproj.CoreCompileInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\refint\StringInterlation.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\StringInterlation.genruntimeconfig.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\StringInterlation\obj\Debug\net7.0\ref\StringInterlation.dll

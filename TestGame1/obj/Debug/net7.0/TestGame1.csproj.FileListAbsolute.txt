@@ -1,0 +1,15 @@
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\bin\Debug\net7.0\TestGame1.exe
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\bin\Debug\net7.0\TestGame1.deps.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\bin\Debug\net7.0\TestGame1.runtimeconfig.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\bin\Debug\net7.0\TestGame1.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\bin\Debug\net7.0\TestGame1.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.csproj.AssemblyReference.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.AssemblyInfoInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.AssemblyInfo.cs
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.csproj.CoreCompileInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\refint\TestGame1.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\TestGame1.genruntimeconfig.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\TestGame1\obj\Debug\net7.0\ref\TestGame1.dll

@@ -1,0 +1,15 @@
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\bin\Debug\net7.0\ParamsKeyW.exe
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\bin\Debug\net7.0\ParamsKeyW.deps.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\bin\Debug\net7.0\ParamsKeyW.runtimeconfig.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\bin\Debug\net7.0\ParamsKeyW.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\bin\Debug\net7.0\ParamsKeyW.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.csproj.AssemblyReference.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.AssemblyInfoInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.AssemblyInfo.cs
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.csproj.CoreCompileInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\refint\ParamsKeyW.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ParamsKeyW.genruntimeconfig.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ParamsKeyW\obj\Debug\net7.0\ref\ParamsKeyW.dll

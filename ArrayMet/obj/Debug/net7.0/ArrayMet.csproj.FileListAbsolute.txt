@@ -1,0 +1,15 @@
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\bin\Debug\net7.0\ArrayMet.exe
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\bin\Debug\net7.0\ArrayMet.deps.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\bin\Debug\net7.0\ArrayMet.runtimeconfig.json
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\bin\Debug\net7.0\ArrayMet.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\bin\Debug\net7.0\ArrayMet.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.csproj.AssemblyReference.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.AssemblyInfoInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.AssemblyInfo.cs
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.csproj.CoreCompileInputs.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\refint\ArrayMet.dll
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.pdb
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ArrayMet.genruntimeconfig.cache
+C:\Users\lhaug\Documents\Code\modul\4mar_april\basic\Test\ArrayMet\obj\Debug\net7.0\ref\ArrayMet.dll
